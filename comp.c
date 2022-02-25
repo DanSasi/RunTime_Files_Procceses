@@ -1,5 +1,4 @@
-// Yarden Mirko : 209329416
-// Dan Sasi : 313369423
+
 #include <stdio.h>
 #include <sys/fcntl.h>
 #include <unistd.h>
